@@ -1,0 +1,70 @@
+# GTD System
+
+## Next Actions
+* File TED Conferences, LLC expenses for the Vancouver trip.
+* Reimburse Shaan for his Virginia Data Center trip expenses.
+* Tell Mike Neilson in Winterset about the extension for your dad's final tax return.
+* Contact Jane (your dad's lawyer) for follow-up steps.
+* Call Union State Bank in Winterset or Bank of America (via Jeremy and Michael) to open a bank account in Iowa for your father's estate (you have the EIN from the lawyer).
+* Reply to the text about the nonprofit and clarify check details (note: nonprofit status confirmation may take 30–45 days, but you have the EIN).
+* Open a bank account for the Jim and Pat Nelson Community Development Fund (likely through Bank of America).
+
+## Projects
+* Estate Management
+  * Complete dad's final tax return
+  * Set up estate bank account
+  * Follow up with lawyer
+* Nonprofit Setup
+  * Establish bank account
+  * Track nonprofit status
+* Personal API Development
+  * Establish a personal API (REST) hosted at home, exposed via Tailscale
+  * List all Tailscale hosts 
+  * Manage a central key-value/parameter store for personal life
+* Development Environment
+  * Set up syncing for shell history across devices
+  * Adjust shell settings for reverse shell history
+  * Document SGPT and shell GPT setup
+  * Integrate shell history and Tuin with personal data store
+* Confluence Space Setup
+  * Set up Nelson.dev with separate pages for family members and projects
+* Limitless AI Integration
+  * Follow up for developer API access
+  * Figure out how to integrate lifelogs with Siri or external actions
+  * Back up/process lifelogs using developer API
+* Hack Week Planning
+  * Decide on official project (shell function for LLM, version-controlled dev environment, menu-based tools, or productivity blog)
+* Kingston Property Management
+  * Find surveyor for property lines
+  * Organize barn and shed inventory
+  * Install smart thermostat
+* Work (TED Conferences, LLC)
+  * Process expense reports
+  * Infrastructure project tracking
+
+## Waiting For
+* Follow up with Henry about access to the Tuin desktop product.
+* Nonprofit status confirmation (30-45 days expected).
+
+## Calendar
+* On Monday, remind Shiffon that the Amazon load balancer in Project Arrow will eventually replace all the rules in traffic director.
+* Check Washington State Ferries pass (4-5 rides left, expiring May 5).
+
+## Someday/Maybe
+* Consider running a local LLM for privacy and cost savings.
+* Blog post about productivity tools (Text Sniper, Clean Shot, Keyboard Maestro, Stream Deck).
+* Integrate menu-based tools into standard developer environment.
+
+## Reference
+* EIN received from lawyer for father's estate.
+* EIN received for Jim and Pat Nelson Community Development Fund.
+* Nebula projector remote location: bottom shelf under the paint in the barn near the radial arm saw.
+* Echo B3 light smart thermostat location: box and kit in the Kingston hallway.
+
+## Inventory Tasks
+* Inventory items in the guest bedroom (basement).
+* Inventory radio equipment.
+* Inventory tool pantry/cupboards in the basement.
+* Organize safety equipment in compartment E6 in the Kingston barn.
+* Catalog photos of tool storage areas (magnetic holders, radio nook, Husky toolbox, Ryobi wall).
+* Inventory Kingston barn attic and shed.
